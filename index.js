@@ -27,4 +27,16 @@ return kittens
   
 }
 
+function destructivelyRemoveFirstKitten(){
+  
+kittens.shift()  
+  
+}
 
+function appendKitten(name){
+  
+var yip = [name,...kittens]
+
+return yip
+  
+}
