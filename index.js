@@ -41,3 +41,11 @@ var yip = [...kittens,name]
 return yip
   
 }
+
+function prependKitten(name){
+  
+  
+var yap = [name,...kittens]
+
+return yap
+}
