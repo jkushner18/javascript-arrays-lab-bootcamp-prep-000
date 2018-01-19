@@ -61,5 +61,7 @@ return cool
 function removeFirstKitten(){
   
   
-var done = kitten.splice()  
+var done = kitten.splice(1,3) 
+
+return done
 }
