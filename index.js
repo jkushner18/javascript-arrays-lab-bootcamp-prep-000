@@ -35,7 +35,7 @@ kittens.shift()
 
 function appendKitten(name){
   
-var yip = [name,..."kittens"]
+var yip = [name,...kittens]
 
 return yip
   
