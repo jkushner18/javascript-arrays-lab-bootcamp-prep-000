@@ -49,3 +49,9 @@ var yap = [name,...kittens]
 
 return yap
 }
+
+function removeLastKitten(){
+
+var cool = kitten.splice()  
+  
+}
