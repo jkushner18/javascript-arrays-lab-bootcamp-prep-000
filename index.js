@@ -52,7 +52,7 @@ return yap
 
 function removeLastKitten(){
 
-var cool = kittens.slice(1,3)  
+var cool = kittens.slice(1,2)  
 
 return cool
   
