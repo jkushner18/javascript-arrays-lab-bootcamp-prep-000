@@ -57,3 +57,9 @@ var cool = kittens.slice(0,2)
 return cool
   
 }
+
+function removeFirstKitten(){
+  
+  
+var done = kitten.splice()  
+}
